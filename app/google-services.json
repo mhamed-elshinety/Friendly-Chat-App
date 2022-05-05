@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969637012321",
+    "project_id": "friendly-81931",
+    "storage_bucket": "friendly-81931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969637012321:android:8cf253e94e6f460d0edb20",
+        "android_client_info": {
+          "package_name": "com.shenaitty.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969637012321-s90mcrqulqel7rp4pasrdeim3sfiq0kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAioHRnuedSDNKIl7x2Zi3jrN_ZGiAbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969637012321-s90mcrqulqel7rp4pasrdeim3sfiq0kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
